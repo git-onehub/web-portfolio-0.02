@@ -1,0 +1,72 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    color: salmon;
+    font: 700;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+
+}
+.half-width img{
+       width: 100%;
+}
+.header-bg{
+   background-image: url("images/header-bg.png");
+}
+section{
+    height: 1000px;
+}
+.link-button{
+    text-decoration: none;
+    background-color:darkorange;
+    padding: 5px 5px;
+    font-weight: 400;
+    color: white;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    padding-top: 10px;
+    height: 800px;
+}
+.latest-work{
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 1%;
+}
+.height-lw{
+    text-align: center;
+    height: 400px;
+    
+}
+.testimony{
+    box-shadow: 10px 10px 30px gray;
+    height: 40%;
+    padding: 10px 10px;
+    text-align: justify;
+
+}
+.client-testimony{
+    background-image: url("images/footer-bg.png");
+    text-align: center;
+    height: 900px;
+
+}
+.bottom{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    font-weight: 500;
+    padding: 3px;
+    text-align: center;
+    display: block;
+    
+}
+    
